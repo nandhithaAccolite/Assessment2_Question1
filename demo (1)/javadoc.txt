@@ -1,0 +1,55 @@
+Class Department conatins JavaDoc 
+/**
+ * This is Department class annotated with @ClassDocumentation
+ */
+
+
+Method department of class Department contains JavaDoc 
+/**
+     * This is the department function from Department class
+     * It doesnot have any annotation
+     */
+
+
+Class Parents contains JavaDoc 
+/**
+ * This is Parents class with no annotation
+ */
+
+
+Method guide of class Parents  contains JavaDoc 
+/**
+     * This is guide method of Parents class annotated with @MethodDocumentation
+     */
+
+
+Method care of class Parents contains JavaDoc 
+/**
+     * This is care method of Parents class with no annotation
+     */
+
+
+Class Student conatins JavaDoc 
+/**
+ * This is Student class annotated with @ClassDocumentation
+ */
+
+
+Method study of class Student  contains JavaDoc 
+/**
+     * This is the study method from Student class annotated with @MethodDocumentation
+     */
+
+
+Method teach of class Teacher  contains JavaDoc 
+/**
+     * This is the teach method of Teacher class annotated with @MethodDocumentation
+     */
+
+
+Class Worker conatins JavaDoc 
+/**
+ * This is Worker class annotated with @ClassDocumentation
+ */
+
+
